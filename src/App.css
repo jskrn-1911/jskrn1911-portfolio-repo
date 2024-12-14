@@ -190,7 +190,7 @@ img {
 /* For medium devices */
 @media screen and (max-width: 768px) {
   body {
-    margin: 0 0 4.5rem 0;
+    margin: 0 0 3rem 0;
   }
   
   .section {
@@ -198,7 +198,7 @@ img {
   }
 
   .section__subtitle {
-    margin-bottom: var(--mb-3);
+    margin-bottom: 3rem;
   }
 }
 
@@ -206,7 +206,7 @@ img {
 }
 
 /* For small devices */
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 390px) {
   :root {
     --big-font-size: 2.25rem;
   }
