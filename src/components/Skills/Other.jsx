@@ -34,22 +34,6 @@ const Other = () => {
                         <i className="bx bx-badge-check"></i>
 
                         <div>
-                            <h3 className="skills__name">Bootstrap</h3>
-                            <span className="skills__level">Intermediate</span>
-                        </div>
-                    </div>
-                    <div className="skills__data">
-                        <i className="bx bx-badge-check"></i>
-
-                        <div>
-                            <h3 className="skills__name">Mongoose</h3>
-                            <span className="skills__level">Intermediate</span>
-                        </div>
-                    </div>
-                    <div className="skills__data">
-                        <i className="bx bx-badge-check"></i>
-
-                        <div>
                             <h3 className="skills__name">Axios</h3>
                             <span className="skills__level">Advanced</span>
                         </div>
@@ -58,8 +42,8 @@ const Other = () => {
                         <i className="bx bx-badge-check"></i>
 
                         <div>
-                            <h3 className="skills__name">Cloudinary</h3>
-                            <span className="skills__level">Advanced</span>
+                            <h3 className="skills__name">Strapi</h3>
+                            <span className="skills__level">Intermediate</span>
                         </div>
                     </div>
                     <div className="skills__data">
@@ -68,6 +52,22 @@ const Other = () => {
                         <div>
                             <h3 className="skills__name">AWS(S3)</h3>
                             <span className="skills__level">Basic</span>
+                        </div>
+                    </div>
+                    <div className="skills__data">
+                        <i className="bx bx-badge-check"></i>
+
+                        <div>
+                            <h3 className="skills__name">Sanity</h3>
+                            <span className="skills__level">Intermediate</span>
+                        </div>
+                    </div>
+                    <div className="skills__data">
+                        <i className="bx bx-badge-check"></i>
+
+                        <div>
+                            <h3 className="skills__name">CMS</h3>
+                            <span className="skills__level">Advanced</span>
                         </div>
                     </div>
                 </div>
