@@ -44,7 +44,7 @@ const About = () => {
                                 ></path>
                             </svg>
                         </a>
-                        <a download="" href={CV} className="button about__button button--flex">Download  CV
+                        <a target='_blank' href="#" className="button about__button button--flex">Checkout  CV
                             <svg
                                 class="button__icon"
                                 xmlns="http://www.w3.org/2000/svg"
