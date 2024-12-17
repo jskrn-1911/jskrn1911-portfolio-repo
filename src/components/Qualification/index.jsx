@@ -59,7 +59,7 @@ const Qualification = () => {
                         <div className="qualification__data">
 
                             <div>
-                                <h3 className="qualification__title">Senior Secondary</h3>
+                                <h3 className="qualification__title">Senior Secondary Education</h3>
                                 <span className='qualification__subtitle'>Uma Rana Public School - Sanghol</span>
                                 <div className='qualification__calender'>
                                     <i className="uil uil-calender-alt"></i>2019
