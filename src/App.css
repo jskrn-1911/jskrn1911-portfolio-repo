@@ -192,7 +192,7 @@ img {
   body {
     margin: 0 0 3rem 0;
   }
-  
+
   .section {
     padding: 2rem 0 4rem;
   }
@@ -202,8 +202,7 @@ img {
   }
 }
 
-@media screen and (max-width: 576px) {
-}
+@media screen and (max-width: 576px) {}
 
 /* For small devices */
 @media screen and (max-width: 390px) {
